@@ -1,14 +1,25 @@
 该 Orgs 用于聚集 [Egg](https://github.com/eggjs) 的第三方生态，以方便开发者交流。
 
-## 一些约定
+## 相关链接
 
-- 建立一个仓库后，需要做的配置：https://github.com/eggjs/egg/wiki/How-to-create-a-new-repository
-- 代码规范参见：https://eggjs.org/zh-cn/contributing.html
-- 协作流程(TODO)
+- [Egg 官网](https://eggjs.org/)
+- [Egg GitHub](https://github.com/eggjs)
+- [awesome-egg](https://github.com/eggjs/awesome-egg)
 
 ## 成员职责
 
+TBD
 
 ## 申请加入方式
 
 发 [issue](https://github.com/eggjs-community/README/issues/new) 填写对应的资料。
+
+## 一些约定
+
+### 如何发起一个新项目
+- 建立一个仓库后，需要做的配置：https://github.com/eggjs/egg/wiki/How-to-create-a-new-repository
+- 通过 `egg-bin --type=plugin egg-xxx` 初始化项目
+
+### 规范
+- 代码规范参见：https://eggjs.org/zh-cn/contributing.html
+- 协作流程(TODO)
