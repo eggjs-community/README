@@ -18,7 +18,7 @@ TBD
 
 ### 如何发起一个新项目
 - 建立一个仓库后，需要做的配置：https://github.com/eggjs/egg/wiki/How-to-create-a-new-repository
-- 通过 `egg-bin --type=plugin egg-xxx` 初始化项目
+- 通过 `egg-init --type=plugin egg-xxx` 初始化项目
 
 ### 规范
 - 代码规范参见：https://eggjs.org/zh-cn/contributing.html
