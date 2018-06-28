@@ -14,7 +14,7 @@
 - [awesome-egg](https://github.com/eggjs/awesome-egg)
 
 ## 相关Egg群
-<img src="https://user-images.githubusercontent.com/2127199/41978218-eeebd330-7a53-11e8-881c-06547650c43b.png" width="300" />
+![Egg钉钉群](https://user-images.githubusercontent.com/2127199/42025170-827851b2-7af6-11e8-99d9-203d84849308.png)
 
 ## 成员职责
 
