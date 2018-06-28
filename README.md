@@ -13,6 +13,9 @@
 - [Egg GitHub](https://github.com/eggjs)
 - [awesome-egg](https://github.com/eggjs/awesome-egg)
 
+## 相关Egg群
+<img src="https://user-images.githubusercontent.com/2127199/41978218-eeebd330-7a53-11e8-881c-06547650c43b.png" width="300" />
+
 ## 成员职责
 
 TBD
