@@ -1,8 +1,9 @@
 该 Orgs 用于聚集 [Egg](https://github.com/eggjs) 的第三方生态，以方便开发者交流。
 
-## 安利下苏依的微信群
+## Egg 群
+![Egg 钉钉群](https://user-images.githubusercontent.com/2127199/42025170-827851b2-7af6-11e8-99d9-203d84849308.png)
 
-因群成员数已超过100，无法二维码邀请。请先加微信，留言 `eggjs-community`
+因微信群成员数已超过100，无法二维码邀请。请先加下面两位同学的微信，留言 `eggjs-community`
 
 ![thonatos](http://ox15d5vmp.bkt.clouddn.com/thonatos.jpeg/github)
 ![duncup](http://ox15d5vmp.bkt.clouddn.com/duncup.jpg/github)
@@ -12,9 +13,6 @@
 - [Egg 官网](https://eggjs.org/)
 - [Egg GitHub](https://github.com/eggjs)
 - [awesome-egg](https://github.com/eggjs/awesome-egg)
-
-## 相关Egg群
-![Egg钉钉群](https://user-images.githubusercontent.com/2127199/42025170-827851b2-7af6-11e8-99d9-203d84849308.png)
 
 ## 成员职责
 
